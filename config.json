@@ -1,8 +1,8 @@
 {
     "default_server_config": {
         "m.homeserver": {
-            "base_url": "https://awau.uk",
-            "server_name": "awau.uk"
+            "base_url": "https://awau.dev",
+            "server_name": "awau.dev"
         },
         "m.identity_server": {
             "base_url": "https://vector.im"
